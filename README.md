@@ -1,7 +1,5 @@
 # CELL LEADERS — Bulk Login Toolkit
 
-A concise, practical README written from a senior developer's perspective for maintaining and operating the "CELL LEADERS" automation tooling.
-
 ## Project Summary
 
 - Purpose: A small suite to parse raw exported text contact dumps into clean CSVs and perform bulk form submissions to the Cell Leaders site via Selenium.
