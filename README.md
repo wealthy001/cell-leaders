@@ -111,21 +111,4 @@ See `CONTRIBUTING.md` for code style, commit message guidance, and testing expec
   - PRs with a short description + testing steps
   - Tag releases with semantic tags like `v0.1.0`
 
-To push these docs to GitHub (example):
 
-```powershell
-# If repo is not initialized
-git init
-git add README.md CONTRIBUTING.md .gitignore
-git commit -m "docs: add README and contributing"
-# add remote and push
-git remote add origin https://github.com/<your-user>/<your-repo>.git
-git branch -M main
-git push -u origin main
-```
-
-If you'd like, I can run the commit and push steps for you — tell me whether you already have a GitHub repo URL or want me to create one with the `gh` CLI.
-
----
-
-If you want this README trimmed, expanded, or turned into a project website (MkDocs), tell me which parts to emphasize.
