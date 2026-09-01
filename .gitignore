@@ -1,0 +1,29 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# PyInstaller
+*.spec
+*.exe
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+
+# Editor / IDE
+.vscode/
+.idea/
+
+# Logs
+.log
+
+# OS files
+Thumbs.db
+desktop.ini
